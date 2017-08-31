@@ -1,3 +1,3 @@
 ﻿## Sydney Frandsen
  
- [About] (frandsensydney.github.io/about.html)
+ [About](frandsensydney.github.io/about.html)
