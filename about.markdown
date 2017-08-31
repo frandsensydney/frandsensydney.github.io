@@ -1,4 +1,4 @@
-﻿## About
+## About
 
 I am a Software Test Specialist with a background in Computer Science and Mathematics.
 In the tech world, I am interested in quality, people, and processes.
